@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    color:red;
+  }
+  
+  ul {
+    list-style: none;
+  }
+
+  img {
+    border:1px solid black
+  }
+
+  button {
+    display: block;
+    border: 2px solid black
+  }
